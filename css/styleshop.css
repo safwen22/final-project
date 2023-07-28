@@ -1,0 +1,272 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+.NOEF1{ 
+    padding-right: 650px; 
+    padding-top: 10px; 
+    font-size: 25px; 
+    font-family: serif;
+}
+header{
+    background-color: #000000;
+    display: flex;
+    justify-content: center; 
+    padding: 9px; 
+}
+ul {
+    list-style-type: none;
+    display: flex;  
+} 
+a {
+    color: #fff;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.a:hover {
+    background-color: #555;
+     border-radius: 5px;
+}  
+.titre{  
+    font-size: 80px; 
+    text-align: center; 
+    font-family: serif; 
+    padding-right: 45px;
+}  
+.input {
+    padding: 8px 10px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    font-size: 18px;
+    width: 270px;
+    max-width: 100%;
+} 
+.btn {
+    margin-left: 10px;
+    padding: 8px 12px;
+    color: rgb(0, 0, 0)626;
+    border: none;
+    cursor: pointer; 
+    background-color: rgb(0, 0, 0);  
+    color: white; 
+    border-radius: 7px;
+    font-size: 20px;
+}   
+.star-loul{ 
+    display: flex;
+}
+.search{ 
+    padding-left: 600px; 
+    padding-top: 85px; 
+} 
+.item1{ 
+    background-color: #ffffffd0; 
+    height:375px; 
+    width: 275px; 
+    text-align: center; 
+    font-size: 15px;
+}  
+.txt-item1{ 
+    padding-top: 6px; 
+    font-family: cursive;
+}
+.item1:hover{ 
+    scale: 1.05; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+}
+.item2{ 
+    background-color: #ffffff;  
+    text-align: center;
+    height: 375px; 
+    width: 275px; 
+    font-size: 15px;
+} 
+.item3{ 
+    background-color: #ffffff;  
+    text-align: center;
+    height: 375px; 
+    width: 275px; 
+    font-size: 15px;
+} 
+.safa-loula{ 
+    display: flex;
+    justify-content: space-evenly;
+} 
+.item4{ 
+    background-color: #ffffff;  
+    text-align: center;
+    height: 375px; 
+    width: 275px; 
+    font-size: 15px;
+} 
+.safa-thenya{ 
+    display: flex; 
+    justify-content: space-evenly; 
+    padding-top: 40px; 
+} 
+.item5{ 
+    background-color: #ffffff;  
+    text-align: center;
+    height: 375px; 
+    width: 275px; 
+    font-size: 15px;
+} 
+.item6{ 
+    background-color: #ffffff;  
+    text-align: center;
+    height: 375px; 
+    width: 275px; 
+    font-size: 15px;
+}
+.item7{ 
+    background-color: #ffffff;  
+    text-align: center;
+    height: 375px; 
+    width: 275px; 
+    font-size: 15px;
+}
+.item8{ 
+    background-color: #ffffff;  
+    text-align: center;
+    height: 375px; 
+    width: 275px; 
+    font-size: 15px;
+} 
+.safa-theltha{ 
+    display: flex; 
+    justify-content: space-evenly; 
+    padding-top: 40px; 
+} 
+.item9{ 
+    background-color: #ffffffd0; 
+    height:375px; 
+    width: 275px; 
+    text-align: center; 
+    font-size: 15px;
+} 
+.item10{ 
+    background-color: #ffffffd0; 
+    height:375px; 
+    width: 275px; 
+    text-align: center; 
+    font-size: 15px;
+} 
+.item11{ 
+   background-color: #ffffffd0; 
+    height:375px; 
+    width: 275px; 
+    text-align: center; 
+    font-size: 15px;
+} 
+.item12{ 
+    background-color: #ffffffd0; 
+    height:375px; 
+    width: 275px; 
+    text-align: center; 
+    font-size: 15px;
+} 
+.safa-rabaa{ 
+    display: flex; 
+    justify-content: space-evenly; 
+    padding-top: 40px;  
+} 
+.item13{ 
+    background-color: #ffffffd0; 
+    height:375px; 
+    width: 275px; 
+    text-align: center; 
+    font-size: 15px;
+} 
+.item14{ 
+    background-color: #ffffffd0; 
+    height:375px; 
+    width: 275px; 
+    text-align: center; 
+    font-size: 15px;
+} 
+.item15{ 
+    background-color: #ffffffd0; 
+    height:375px; 
+    width: 275px; 
+    text-align: center; 
+    font-size: 15px;
+} 
+.item16{ 
+    background-color: #ffffffd0; 
+    height:375px; 
+    width: 275px; 
+    text-align: center; 
+    font-size: 15px;
+} 
+.item2:hover{ 
+    scale: 1.05; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+}
+.item3:hover{ 
+    scale: 1.05; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+}
+.item4:hover{ 
+    scale: 1.05; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+}
+.item5:hover{ 
+    scale: 1.05; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+} 
+.item6:hover{ 
+    scale: 1.05; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+}
+.item7:hover{ 
+    scale: 1.05; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+}
+.item8:hover{ 
+    scale: 1.05; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+}
+.item9:hover{ 
+    scale: 1.05; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+}
+.item10:hover{ 
+    scale: 1.05; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+}
+.item11:hover{ 
+    scale: 1.05; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+}
+.item12:hover{ 
+    scale: 1.05; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+}
+.item13:hover{ 
+    scale: 1.05; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+}
+.item14:hover{ 
+    scale: 1.05; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+}
+.item15:hover{ 
+    scale: 1.05; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+}
+.item16:hover{ 
+    scale: 1.05; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+}
+.safa-thenya{ 
+    padding-top: 65px;
+} 
+.safa-theltha{ 
+    padding-top: 65px;
+} 
+.safa-rabaa{ 
+    padding-top: 65px;
+}
